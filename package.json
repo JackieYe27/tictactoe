@@ -31,6 +31,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "require": "^2.4.20",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.5",
+    "uglify-js": ">=2.6.0"
   }
 }
