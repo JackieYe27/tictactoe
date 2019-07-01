@@ -3,7 +3,7 @@ import React from 'react';
 class Square extends React.Component {
     render() {
       return (
-        <button className="square">
+        <button className="square" onClick={() => console.log('clicked', this.props.value)}>
           {this.props.value}
         </button>
       );
