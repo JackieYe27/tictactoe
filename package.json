@@ -16,10 +16,10 @@
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.23.1",
-    "babel-loader": "^6.3.2",
+    "babel-loader": "^9.1.0",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
-    "webpack": "^2.2.1"
+    "webpack": "^5.75.0"
   },
   "bugs": {
     "url": "https://github.com/JackieYe27/tictactoe/issues"
@@ -31,7 +31,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "require": "^2.4.20",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "uglify-js": ">=2.6.0"
   }
 }
